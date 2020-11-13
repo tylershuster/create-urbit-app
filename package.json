@@ -1,0 +1,21 @@
+{
+  "name": "create-urbit-app",
+  "version": "1.0.0",
+  "description": "Get started quickly developing an app using Urbit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bootstrap": "./bootstrap.sh",
+    "start": "./bin/urbit pier"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylershuster/create-urbit-app.git"
+  },
+  "author": "Tyler Brown Cifu Shuster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylershuster/create-urbit-app/issues"
+  },
+  "homepage": "https://github.com/tylershuster/create-urbit-app#readme"
+}
