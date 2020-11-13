@@ -6,7 +6,7 @@ The goal of this package is to provide you with the tools needed to write a Java
 
 After cloning this repository to your computer, run `npm run bootstrap` from within this directory. This will download the urbit binary and start with a [comet](https://urbit.org/docs/glossary/comet/). Comets are free identities with two shortcomings. One: they take a while (up to an hour) to boot for the first time and two: being free, they have lower implicit trust on the network. Other than these, a comet will allow you to use the Urbit network as usual.
 
-The comet will be running at the end of the `bootstrap` task. Stop it by pressing `ctrl+d`. (It may say the script failed, but if the comet booted, al is well.)
+The comet will be running at the end of the `bootstrap` task. Stop it by pressing `ctrl+d`. (It may say the script failed, but if the comet booted, all is well.)
 
 To run it in the future, run `npm run start`.
 
