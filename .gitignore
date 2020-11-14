@@ -1,3 +1,4 @@
 bin/*
 tar.tgz
 pier/*
+node_modules/

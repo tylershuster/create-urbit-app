@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/tylershuster/create-urbit-app/issues"
   },
-  "homepage": "https://github.com/tylershuster/create-urbit-app#readme"
+  "homepage": "https://github.com/tylershuster/create-urbit-app#readme",
+  "dependencies": {
+    "urbit": "^0.1.3"
+  }
 }
