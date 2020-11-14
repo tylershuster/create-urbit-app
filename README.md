@@ -1,6 +1,6 @@
 # Create Urbit App
 
-The goal of this package is to provide you with the tools needed to write a JavaScript application that uses Urbit as a backend. Currently awaiting the 1.0 release of the `urbit` package.
+The goal of this package is to provide you with the tools needed to write a JavaScript application that uses Urbit as a backend. Currently awaiting the 1.0 release of the [urbit package](https://www.npmjs.com/package/urbit). 
 
 ## Getting Started
 
@@ -12,6 +12,6 @@ To run it in the future, run `npm run start`.
 
 ## Developing
 
-**Node: This is unimplemented behavior and included here only as a reminder to make it work this way**
+**Note: This is unimplemented behavior and included here only as a reminder to make it work this way**
 
 Because Urbit runs in its own process, you will need to open up another terminal while the comet is running and run `npm run watch`. This will allow you to start developing your JavaScript application that runs on top of the comet.
